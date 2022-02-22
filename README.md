@@ -32,7 +32,7 @@ Give the urls in urls.py.
 
 ### Step 6:
 
-Publish the website in the given URL.
+Publish the website in the given URL.:http://nivetha.student.saveetha.in/
 
 ## PROGRAM :
 ### Area.html
