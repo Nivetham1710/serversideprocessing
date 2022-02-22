@@ -109,9 +109,11 @@ urlpatterns = [
 ~~~
 
 ## OUTPUT:
+![output](https://github.com/Nivetham1710/serversideprocessing/blob/main/Screenshot%20(101).png)
 
-### Home Page:
+
 
 
 ## Result:
+The code to execute mathematical website in server side has been created successfully.
 
